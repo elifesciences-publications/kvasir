@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Bonham et al., "Extensive horizontal gene transfer in cheese-associated bacteria". eLife, 2017. http://dx.doi.org/10.7554/eLife.22144
+
+
 #Kvasir
 
 [![DOI](https://zenodo.org/badge/22309/kescobo/kvasir.svg)](https://zenodo.org/badge/latestdoi/22309/kescobo/kvasir)
